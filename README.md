@@ -35,11 +35,11 @@ Hi! I'm Zeynep, a recent Industrial Engineering graduate with a strong interest 
 - **[View Dashboard](https://app.powerbi.com/groups/me/reports/fb15bf79-664c-4db7-9a4a-fd9347f563d6/394d2854c4c857270002?experience=power-bi&bookmarkGuid=08d2d3d80b570e1b5284)**
 
 ### 6. Retail Sales Performance Dashboard
-**Dataset:** Retail Sales (135 records, 2023–2024, 
+-**Dataset:** Retail Sales (135 records, 2023–2024, 
 star schema — Sales, Product, Region, Customer, Date)  
-**Topics:** Regional performance, product ranking, 
+-**Topics:** Regional performance, product ranking, 
 category profitability, YoY trend analysis  
-**Tools:** Power BI, DAX (CALCULATE, RANKX, VAR, 
+-**Tools:** Power BI, DAX (CALCULATE, RANKX, VAR, 
 SELECTEDVALUE, SAMEPERIODLASTYEAR), 
 Conditional Formatting, Sync Slicers, Tooltip Page, 
 Dynamic Titles  
