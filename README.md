@@ -32,7 +32,18 @@ Hi! I'm Zeynep, a recent Industrial Engineering graduate with a strong interest 
 - **Dataset:** IBM HR Analytics (Kaggle)
 - **Topics:** Attrition analysis, salary by role, overtime impact
 - **Tools:** Power BI, DAX, Bookmarks, Multi-page Navigation
-- **[View Dashboard](https://app.powerbi.com/groups/me/reports/cb5f05c5-e023-4719-9442-7d0d5a54ecbc/57f51f1a9904005c81d3?experience=power-bi)**
+- **[View Dashboard](https://app.powerbi.com/groups/me/reports/fb15bf79-664c-4db7-9a4a-fd9347f563d6/394d2854c4c857270002?experience=power-bi&bookmarkGuid=08d2d3d80b570e1b5284)**
+
+### 6. Retail Sales Performance Dashboard
+**Dataset:** Retail Sales (135 records, 2023–2024, 
+star schema — Sales, Product, Region, Customer, Date)  
+**Topics:** Regional performance, product ranking, 
+category profitability, YoY trend analysis  
+**Tools:** Power BI, DAX (CALCULATE, RANKX, VAR, 
+SELECTEDVALUE, SAMEPERIODLASTYEAR), 
+Conditional Formatting, Sync Slicers, Tooltip Page, 
+Dynamic Titles  
+**[View Dashboard](https://app.powerbi.com/groups/me/reports/93ebd592-6b49-4312-82fb-5b21cf1dbebf/9ff19a4154d81e950c01?experience=power-bi)**
 
 ---
 
