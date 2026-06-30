@@ -46,6 +46,13 @@ Conditional Formatting, Sync Slicers, Tooltip Page,
 Dynamic Titles  
 - **[View Dashboard](https://app.powerbi.com/groups/me/reports/93ebd592-6b49-4312-82fb-5b21cf1dbebf/9ff19a4154d81e950c01?experience=power-bi)**
 
+  ### 7. HR People Analytics Dashboard
+
+- **Dataset:** Custom dataset (60 employees, 2023–2024, star schema — Employees, Department, JobLevel, Date)
+- **Topics:** Workforce overview, attrition analysis, performance & salary by job level, decomposition tree
+- **Tools:** Power BI, DAX (USERELATIONSHIP, CALCULATE, DIVIDE, COUNTROWS), Decomposition Tree, Row-Level Security (RLS), Multi-page Navigation
+- **[View Dashboard](https://app.powerbi.com/groups/me/reports/030d9fd9-f6c2-400c-b7a4-6f0b8ea7cfb3/93f2ce19ce1f4306f04a?experience=power-bi)**
+
 ---
 
 ## Skills Demonstrated
