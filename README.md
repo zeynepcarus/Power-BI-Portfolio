@@ -46,12 +46,33 @@ Conditional Formatting, Sync Slicers, Tooltip Page,
 Dynamic Titles  
 - **[View Dashboard](https://app.powerbi.com/groups/me/reports/93ebd592-6b49-4312-82fb-5b21cf1dbebf/9ff19a4154d81e950c01?experience=power-bi)**
 
-  ### 7. HR People Analytics Dashboard
+### 7. HR People Analytics Dashboard
 
 - **Dataset:** Custom dataset (60 employees, 2023–2024, star schema — Employees, Department, JobLevel, Date)
 - **Topics:** Workforce overview, attrition analysis, performance & salary by job level, decomposition tree
 - **Tools:** Power BI, DAX (USERELATIONSHIP, CALCULATE, DIVIDE, COUNTROWS), Decomposition Tree, Row-Level Security (RLS), Multi-page Navigation
 - **[View Dashboard](https://app.powerbi.com/groups/me/reports/030d9fd9-f6c2-400c-b7a4-6f0b8ea7cfb3/93f2ce19ce1f4306f04a?experience=power-bi)**
+
+### 8. CFO Financial Dashboard
+
+- **Dataset:** Custom dataset (Financial data, 2023–2024, star schema — Financials, Account, Department, Date)
+- **Topics:** Revenue vs budget tracking, expense by department, net position analysis, forecast scenario planning
+- **Tools:** Power BI, DAX (TOTALYTD, CALCULATE, DIVIDE, VAR), Bookmarks, What-if Parameter, Waterfall Chart, Multi-page Navigation
+- **[View Dashboard](https://app.powerbi.com/groups/me/reports/bc02b69e-803f-441c-b5bb-d4d9413d8732/2b5437e68bc941e0c808?experience=power-bi)**
+
+### 9. E-Commerce Order Analytics Dashboard
+
+- **Dataset:** Custom dataset (E-commerce orders, 2023–2024, star schema — Orders, Product, Customer, Region, Date)
+- **Topics:** Revenue & profit analysis, order status breakdown, product category performance, customer insights, drillthrough product detail
+- **Tools:** Power BI, DAX (CALCULATE, RANKX, VAR, DIVIDE, COUNTROWS), Drillthrough Page, Multi-page Navigation (4 pages), Conditional Formatting
+- **[View Dashboard](https://app.powerbi.com/groups/me/reports/af7739e3-a31e-4bf0-acc5-79ce20709b51/e335438d588bd81a508c?experience=power-bi)**
+
+### 10. Supply Chain & Logistics Dashboard
+
+- **Dataset:** Custom dataset (120 shipments, 2023–2024, star schema — Shipments, Supplier, Warehouse, Date)
+- **Topics:** Shipment volume by supplier & warehouse, on-time rate analysis, avg delivery days, delay tracking, supplier ranking
+- **Tools:** Power BI, DAX (AVERAGEX, DATEDIFF, RANKX, CALCULATE, DIVIDE), Matrix Visual, Conditional Formatting, Multi-page Navigation (3 pages)
+- **[View Dashboard](https://app.powerbi.com/groups/me/reports/9bc202a6-8f4c-4a59-9081-3addaf626028/131353dd1fd939a98362?experience=power-bi)**
 
 ---
 
