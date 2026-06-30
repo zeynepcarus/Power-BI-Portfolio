@@ -77,10 +77,11 @@ Dynamic Titles
 ---
 
 ## Skills Demonstrated
-- Data cleaning & transformation (Power Query)
-- Data modeling (table relationships)
-- DAX measures (SUM, AVERAGE, COUNTROWS, FILTER, DIVIDE, IF)
-- Interactive visuals (Slicers, Bookmarks, Drill-through)
-- Dashboard design & storytelling
 
+- **Data Modeling:** Star schema design, table relationships, inactive relationships (USERELATIONSHIP)
+- **DAX Measures:** SUM, AVERAGE, COUNTROWS, DIVIDE, IF, SWITCH, CALCULATE, RANKX, VAR, SELECTEDVALUE, SAMEPERIODLASTYEAR, TOTALYTD, AVERAGEX, DATEDIFF
+- **Visuals:** KPI Cards, Bar/Column Chart, Line Chart, Donut Chart, Scatter Chart, Waterfall Chart, Matrix, Decomposition Tree
+- **Interactivity:** Synced Slicers, Bookmarks, Drillthrough Pages, Page Navigator, What-if Parameter, Dynamic Titles, Tooltip Pages
+- **Security & Governance:** Row-Level Security (RLS)
+- **Design:** Conditional Formatting (rules-based), multi-page layout, dashboard storytelling
 ---
