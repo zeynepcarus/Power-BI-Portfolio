@@ -183,6 +183,31 @@ Dynamic Titles
 
 - **[View Dashboard](https://app.powerbi.com/groups/me/reports/9bc202a6-8f4c-4a59-9081-3addaf626028/131353dd1fd939a98362?experience=power-bi)**
 
+### 11. Sales Command Center Dashboard
+- **Dataset:** Custom sales dataset — 24 months (2023-2024), 12 products (5 categories), 5 regions, 20 customers (Enterprise/SMB/Individual segments), 203 sales records, plus a monthly target table
+  
+- **Topics:** Sales performance vs. target, seasonality analysis (Q4 spike), customer segmentation, regional & product performance
+
+- **Tools:** Power BI, DAX, Custom JSON Theme (teal + gold), Gauge, Ribbon Chart, Treemap, Decomposition Tree
+
+
+**Command Center**
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/f650a33b-eced-4dd9-8a12-65015e0f4ef8" />
+
+
+**Product Analysis**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/a65166ef-a615-4555-b99f-793c1ffa37d0" />
+
+
+**Regional Performance**
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/790c0a2f-4107-4987-816e-854064bf8146" />
+
+
+- **[View Dashboard](https://app.powerbi.com/groups/me/reports/950abc96-2d35-4537-aa27-086e47b9fba8/26da25ced66e1e1958fa?experience=power-bi)**
+
 ---
 
 ## Skills Demonstrated
