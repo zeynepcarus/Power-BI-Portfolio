@@ -208,6 +208,31 @@ Dynamic Titles
 
 - **[View Dashboard](https://app.powerbi.com/groups/me/reports/950abc96-2d35-4537-aa27-086e47b9fba8/26da25ced66e1e1958fa?experience=power-bi)**
 
+**Digital Marketing Analytics**
+- **Dataset:** Custom digital marketing dataset — date, channel, and campaign dimensions with campaign performance and conversion fact tables
+- **Topics:** Campaign performance tracking, channel effectiveness, conversion analysis
+- **Tools:** Power BI, DAX, Custom JSON Theme, data modeling (star schema with 5 tables)
+
+**Campaign Overview**
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/f8728d38-f019-4f4c-bce8-24131ffaa861" />
+
+**Channel Performance**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/d6130d0a-a8a8-4a44-8401-07ea4f5eed46" />
+
+**Conversion Analysis**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/b8165574-eda6-4b2b-b709-23846f942fe7" />
+
+- **[View Dashboard](https://app.powerbi.com/groups/me/reports/78ef4a48-04a7-4ed4-b415-ee5a57512788/d262459cfaa8e866eff2?experience=power-bi)**
+
+
+
+
+
+
+
 ---
 
 ## Skills Demonstrated
