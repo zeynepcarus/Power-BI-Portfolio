@@ -228,6 +228,33 @@ Dynamic Titles
 - **[View Dashboard](https://app.powerbi.com/groups/me/reports/78ef4a48-04a7-4ed4-b415-ee5a57512788/d262459cfaa8e866eff2?experience=power-bi)**
 
 
+### 13. Banking & Loan Analytics Dashboard
+- Dataset: Custom banking dataset — 24 months, 6 branches (with lat/long for map visuals), 8 products (credit, deposit, card), 30 customers (with credit score & segment), 140 transactions, 50 loan records
+- Topics: Loan repayment & late payment tracking, transaction analysis, branch performance, customer credit risk segmentation
+- Tools: Power BI, DAX, Custom JSON Theme (white + purple/violet), Map visual (branch geolocation), data modeling (star schema)
+
+**Overview**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/d1e98e0a-b5ac-44a0-8fc7-9eaeebb5bd22" />
+
+**Transaction Analysis**
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/565b36a8-bf81-44a4-8319-dabb2ce8b7f5" />
+
+**Customer Insights**
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/1848aed6-55a4-4677-9600-3fa09676d2b1" />
+
+
+- **[View Dashboard](https://app.powerbi.com/groups/me/reports/a6cde35d-b893-4dab-a3bf-d004e22754e7/521bda571b7c73b948f9?experience=power-bi)**
+
+
+
+
+
+
+
+
 
 
 
