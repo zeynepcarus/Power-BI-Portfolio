@@ -248,6 +248,54 @@ Dynamic Titles
 
 - **[View Dashboard](https://app.powerbi.com/groups/me/reports/a6cde35d-b893-4dab-a3bf-d004e22754e7/521bda571b7c73b948f9?experience=power-bi)**
 
+### 14. E-Commerce Orders & Payments Dashboard
+
+- Dataset: Custom e-commerce dataset — date, product, customer, and payment method dimensions with an order fact table
+- Topics: Order analysis, payment method breakdown, customer & product performance
+- Tools: Power BI, DAX, Custom JSON Theme, data modeling (star schema with 5 tables)
+
+**Sales Overview**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/0116e198-3aec-4669-8063-04ee20d592da" />
+
+**Sales Trends**
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/ea5c603d-c296-41c8-9545-f1e50f3bbdd6" />
+
+**Product Analysis**
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/9137013b-5038-48c0-85b8-47d49026f659" />
+
+
+- **[View Dashboard](https://app.powerbi.com/groups/me/reports/47b87511-af18-486d-9e45-abbbecf4b674/a202da4680a789a0c072?experience=power-bi)**
+
+
+
+## 15. HR Performance Analytics Dashboard
+
+- Dataset: Custom HR dataset — date, department, and employee dimensions with performance and salary fact tables
+- Topics: Employee performance tracking, salary analysis, department comparisons
+- Tools: Power BI, DAX, Custom JSON Theme, data modeling (star schema with 5 tables)
+
+**Overview**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/5ca768c1-ef72-400e-af14-10354f667bf7" />
+
+**Performance Analysis**
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/1504ea15-e6e4-408f-8459-5b374f560e2c" />
+
+**Salary & Overtime**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/f7f82cc7-7185-4b22-af0d-ebb4bb2b41da" />
+
+
+- **[View Dashboard](https://app.powerbi.com/groups/me/reports/72c6ff86-aca3-43cd-991e-312b08559685/9149e88d5c318aa39248?experience=power-bi)**
+
+
+
+
+
 
 
 
