@@ -147,19 +147,22 @@ Dynamic Titles
 
 **Executive Summary:**
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/c139d71c-4d69-4cdf-9ebf-05da2a173abe" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/62af3de7-0182-4e99-9829-37ac92dd2cae" />
+
 
 **Product Performance:**
 
-<img width="600"  alt="image" src="https://github.com/user-attachments/assets/72ed97fc-a76b-4cd5-8bf7-b82efd45e170" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/3cb04da7-ee90-44c7-acfb-37d68a1482a7" />
+
 
 
 **Customer Insights:**
 
-<img width="600"  alt="image" src="https://github.com/user-attachments/assets/fcd2cfde-6f26-4320-97cf-f799fe24ad91" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/d88075ec-42ba-46e7-b2eb-05d3cfd9db7e" />
 
 
-- **[View Dashboard](https://app.powerbi.com/groups/me/reports/af7739e3-a31e-4bf0-acc5-79ce20709b51/e335438d588bd81a508c?experience=power-bi)**
+
+- **[View Dashboard](https://app.powerbi.com/groups/me/reports/af7739e3-a31e-4bf0-acc5-79ce20709b51/9632bf8202c6ed09dd85?experience=power-bi)**
 
 ### 10. Supply Chain & Logistics Dashboard
 
