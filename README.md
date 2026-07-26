@@ -208,7 +208,7 @@ Dynamic Titles
 
 - **[View Dashboard](https://app.powerbi.com/groups/me/reports/950abc96-2d35-4537-aa27-086e47b9fba8/26da25ced66e1e1958fa?experience=power-bi)**
 
-**Digital Marketing Analytics**
+###   12. Digital Marketing Analytics
 - **Dataset:** Custom digital marketing dataset — date, channel, and campaign dimensions with campaign performance and conversion fact tables
 - **Topics:** Campaign performance tracking, channel effectiveness, conversion analysis
 - **Tools:** Power BI, DAX, Custom JSON Theme, data modeling (star schema with 5 tables)
@@ -228,7 +228,7 @@ Dynamic Titles
 - **[View Dashboard](https://app.powerbi.com/groups/me/reports/78ef4a48-04a7-4ed4-b415-ee5a57512788/d262459cfaa8e866eff2?experience=power-bi)**
 
 
-### 13. Banking & Loan Analytics Dashboard
+###    13. Banking & Loan Analytics Dashboard
 - Dataset: Custom banking dataset — 24 months, 6 branches (with lat/long for map visuals), 8 products (credit, deposit, card), 30 customers (with credit score & segment), 140 transactions, 50 loan records
 - Topics: Loan repayment & late payment tracking, transaction analysis, branch performance, customer credit risk segmentation
 - Tools: Power BI, DAX, Custom JSON Theme (white + purple/violet), Map visual (branch geolocation), data modeling (star schema)
@@ -248,7 +248,7 @@ Dynamic Titles
 
 - **[View Dashboard](https://app.powerbi.com/groups/me/reports/a6cde35d-b893-4dab-a3bf-d004e22754e7/521bda571b7c73b948f9?experience=power-bi)**
 
-### 14. E-Commerce Orders & Payments Dashboard
+###   14. E-Commerce Orders & Payments Dashboard
 
 - Dataset: Custom e-commerce dataset — date, product, customer, and payment method dimensions with an order fact table
 - Topics: Order analysis, payment method breakdown, customer & product performance
@@ -271,7 +271,7 @@ Dynamic Titles
 
 
 
-## 15. HR Performance Analytics Dashboard
+###   15.  HR Performance Analytics Dashboard
 
 - Dataset: Custom HR dataset — date, department, and employee dimensions with performance and salary fact tables
 - Topics: Employee performance tracking, salary analysis, department comparisons
@@ -291,6 +291,29 @@ Dynamic Titles
 
 
 - **[View Dashboard](https://app.powerbi.com/groups/me/reports/72c6ff86-aca3-43cd-991e-312b08559685/9149e88d5c318aa39248?experience=power-bi)**
+
+
+###   16. Logistics Performance Dashboard
+
+- Dataset: Custom logistics dataset — carrier, route, category, and date dimensions with a shipment fact table (190 records, Jan 2023 – Dec 2024)
+- Topics: Shipment volume analysis, carrier performance, route revenue breakdown, on-time delivery tracking, delayed shipments trend
+- Tools: Power BI, DAX, Custom JSON Theme, data modeling (star schema with 5 tables)
+
+**Shipment Overview**
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/677e6f72-babc-4850-80e0-028ac38546bf" />
+
+**Route & Carrier Analysis**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/8391aee3-85fb-4f66-855d-ff908a21be36" />
+
+**Performance Trends**
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/b1dc83fe-0e3e-41d0-a56a-bbb13e6e1195" />
+
+- **[View Dashboard](https://app.powerbi.com/groups/me/reports/e5ad3e82-aa9b-4160-8c9f-8a534829df38/c82e01cb118e091c70e1?experience=power-bi)**
+
+
 
 
 
