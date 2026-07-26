@@ -4,22 +4,6 @@ Hi! I'm Zeynep, a recent Industrial Engineering graduate with a strong interest 
 
 ## Projects
 
-### 1. Superstore Sales Dashboard
-- **Dataset:** Superstore Sales (Kaggle)
-- **Topics:** Sales analysis, category performance, trend analysis
-- **Tools:** Power BI, DAX
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/531d9dc4-0223-4e5b-bc62-9c4e58870557" />
-
-- **[View Dashboard](https://app.powerbi.com/groups/me/reports/cb5f05c5-e023-4719-9442-7d0d5a54ecbc/57f51f1a9904005c81d3?experience=power-bi)**
-
-### 2. Brazil E-Commerce Sales Dashboard
-- **Dataset:** Olist Brazilian E-Commerce (Kaggle)
-- **Topics:** Revenue analysis, customer state, order status
-- **Tools:** Power BI, DAX, Data Modeling
-<img width="600"  alt="image" src="https://github.com/user-attachments/assets/22e9194b-4dc3-4a03-acd1-5d0a2e780bbd" />
-
-- **[View Dashboard](https://app.powerbi.com/groups/me/reports/1c930184-83b5-4ed3-bdc0-41d1fb7034d0/7dca318e1081682e3370?experience=power-bi)**
-
 ### 3. Customer Churn Dashboard
 - **Dataset:** E-Commerce Customer Churn (Kaggle)
 - **Topics:** Churn analysis, loyalty segmentation, engagement
@@ -39,13 +23,7 @@ Hi! I'm Zeynep, a recent Industrial Engineering graduate with a strong interest 
 
 - **[View Dashboard](https://app.powerbi.com/groups/me/reports/3dbd0b49-9793-4ea7-a626-d9054ce8ab62/2956c0a0e64a766a074c?experience=power-bi)**
 
-### 4. Sales Performance Dashboard
-- **Dataset:** Sample Superstore (Kaggle)
-- **Topics:** Profit analysis, regional performance, gauge chart
-- **Tools:** Power BI, DAX, Conditional Formatting
- <img width="600" alt="image" src="https://github.com/user-attachments/assets/7cb973b8-24c9-4a5b-8383-00ffc7cdf72c" />
 
-- **[View Dashboard](https://app.powerbi.com/groups/me/reports/eb28e29c-88a0-4f15-8de0-ec8d4a205934/f232d2d53c1ce0752d3a?experience=power-bi)**
 
 ### 5. HR Analytics Dashboard
 - **Dataset:** IBM HR Analytics (Kaggle)
@@ -127,17 +105,20 @@ Dynamic Titles
 
 **Financial Overview:**
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/b32dbacc-2b95-4573-b9f4-63a82ac85299" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/63faff23-ae5f-4049-837d-0860be5f9240" />
+
 
 **Budget Analysis:**
 
-<img width="600"  alt="image" src="https://github.com/user-attachments/assets/fc37b3f3-6643-4462-bf77-d6b4aee9a78d" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/13f8b388-c9c5-4174-aa8d-62f358508f43" />
+
 
 **Forecast Scenario:**
 
-<img width="600"  alt="image" src="https://github.com/user-attachments/assets/870b971b-b020-4975-9677-5b7c305e6a2e" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/2449cb1f-682a-4580-91bd-0bc8dc2cc3df" />
 
-- **[View Dashboard](https://app.powerbi.com/groups/me/reports/bc02b69e-803f-441c-b5bb-d4d9413d8732/2b5437e68bc941e0c808?experience=power-bi)**
+
+- **[View Dashboard](https://app.powerbi.com/groups/me/reports/bc02b69e-803f-441c-b5bb-d4d9413d8732/6614ddeed5eca1b3cf45?experience=power-bi)**
 
 ### 9. E-Commerce Order Analytics Dashboard
 
