@@ -169,19 +169,21 @@ Dynamic Titles
 
 **Operations Overview:**
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/baf2db36-82ae-454d-812f-418953894c3b" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/3cf9cce2-5798-434c-a3a9-7d3464892a1a" />
+
 
 **Supplier Performance:**
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/609aaaea-4d06-4d47-ba34-bb8f0168cfc7" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/147439a0-6ff4-4541-a5b5-30c946191de4" />
+
 
 **Delivery Analysis:**
 
-<img width="600"  alt="image" src="https://github.com/user-attachments/assets/fdd0a854-e0ec-4a2f-a4fc-0a694eb5257f" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/d87568b4-1ded-4d2c-900e-ba4f99821858" />
 
 
 
-- **[View Dashboard](https://app.powerbi.com/groups/me/reports/9bc202a6-8f4c-4a59-9081-3addaf626028/131353dd1fd939a98362?experience=power-bi)**
+- **[View Dashboard](https://app.powerbi.com/groups/me/reports/9bc202a6-8f4c-4a59-9081-3addaf626028/84475c2fdd19f7031946?experience=power-bi)**
 
 ### 11. Sales Command Center Dashboard
 - **Dataset:** Custom sales dataset — 24 months (2023-2024), 12 products (5 categories), 5 regions, 20 customers (Enterprise/SMB/Individual segments), 203 sales records, plus a monthly target table
