@@ -316,6 +316,27 @@ Dynamic Titles
 
 
 
+###     17. Coffee Shop Sales Dashboard
+
+- Dataset: Custom coffee shop dataset — store, product, and date dimensions with a sales fact table (396 records, Jan–Jun 2023)
+- Topics: Sales by store analysis, product category performance, monthly sales trends, shopper behavior breakdown
+- Tools: Power BI, DAX, Custom JSON Theme, data modeling (star schema with 4 tables), Page Navigator, Sync Slicers
+
+**Overview**
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/229fd8aa-6c45-4e9c-98c5-6371da849064" />
+
+**Monthly Sales**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/26a5e671-ba16-44d2-a30b-069739213be5" />
+
+**Shopper Behaviors**
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/7a5d691f-682e-45ef-8d1b-c361cb0d9c98" />
+
+- **[View Dashboard](https://app.powerbi.com/groups/me/reports/11058b02-00ae-47a8-90e7-29093af9f694/da48fb2bc6db17100023?experience=power-bi)**
+
+
 
 
 
