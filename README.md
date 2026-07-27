@@ -4,28 +4,7 @@ Hi! I'm Zeynep, a recent Industrial Engineering graduate with a strong interest 
 
 ## Projects
 
-### 3. Customer Churn Dashboard
-- **Dataset:** E-Commerce Customer Churn (Kaggle)
-- **Topics:** Churn analysis, loyalty segmentation, engagement
-- **Tools:** Power BI, DAX (COUNTROWS, FILTER, DIVIDE)
-  
-
-**Churn Overview:**
-
-
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/75e6235d-b5d1-4b64-ae21-c38115b3cd0a" />
-
-**Customer Detail:**
-
-
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/5b70c737-e8e6-4c1f-bff9-be218e5d8511" />
-
-
-- **[View Dashboard](https://app.powerbi.com/groups/me/reports/3dbd0b49-9793-4ea7-a626-d9054ce8ab62/2956c0a0e64a766a074c?experience=power-bi)**
-
-
-
-### 5. HR Analytics Dashboard
+### 1. HR Analytics Dashboard
 - **Dataset:** IBM HR Analytics (Kaggle)
 - **Topics:** Attrition analysis, salary by role, overtime impact
 - **Tools:** Power BI, DAX, Bookmarks, Multi-page Navigation
@@ -47,7 +26,7 @@ Hi! I'm Zeynep, a recent Industrial Engineering graduate with a strong interest 
 
 - **[View Dashboard](https://app.powerbi.com/groups/me/reports/fb15bf79-664c-4db7-9a4a-fd9347f563d6/394d2854c4c857270002?experience=power-bi&bookmarkGuid=08d2d3d80b570e1b5284)**
 
-### 6. Retail Sales Performance Dashboard
+### 2. Retail Sales Performance Dashboard
 
 - **Dataset:** Retail Sales (135 records, 2023–2024, 
 star schema — Sales, Product, Region, Customer, Date)  
@@ -74,7 +53,7 @@ Dynamic Titles
 
 - **[View Dashboard](https://app.powerbi.com/groups/me/reports/93ebd592-6b49-4312-82fb-5b21cf1dbebf/9ff19a4154d81e950c01?experience=power-bi)**
 
-### 7. HR People Analytics Dashboard
+### 3. HR People Analytics Dashboard
 
 - **Dataset:** Custom dataset (60 employees, 2023–2024, star schema — Employees, Department, JobLevel, Date)
 - **Topics:** Workforce overview, attrition analysis, performance & salary by job level, decomposition tree
@@ -82,22 +61,23 @@ Dynamic Titles
 
 **Workforce Overview:**
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/da4ac6a5-f41c-4661-88c1-0a3188009eaa" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/eae9adcc-aaaa-456d-a51c-a55a07691172" />
 
 
 **Attrition Analysis:**
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/1bf3a679-9108-400c-b5e8-d8b24b56e382" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/1b3d3d73-2d24-4c33-8168-00c732ee9add" />
+
 
 **Performance & Salary:**
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/50479b78-8c38-4544-a5ba-780b95623f66" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/137c9283-9684-4b67-9e17-a4845adb575e" />
 
 
 
 - **[View Dashboard](https://app.powerbi.com/groups/me/reports/030d9fd9-f6c2-400c-b7a4-6f0b8ea7cfb3/93f2ce19ce1f4306f04a?experience=power-bi)**
 
-### 8. CFO Financial Dashboard
+### 4. CFO Financial Dashboard
 
 - **Dataset:** Custom dataset (Financial data, 2023–2024, star schema — Financials, Account, Department, Date)
 - **Topics:** Revenue vs budget tracking, expense by department, net position analysis, forecast scenario planning
@@ -120,7 +100,7 @@ Dynamic Titles
 
 - **[View Dashboard](https://app.powerbi.com/groups/me/reports/bc02b69e-803f-441c-b5bb-d4d9413d8732/6614ddeed5eca1b3cf45?experience=power-bi)**
 
-### 9. E-Commerce Order Analytics Dashboard
+### 5. E-Commerce Order Analytics Dashboard
 
 - **Dataset:** Custom dataset (E-commerce orders, 2023–2024, star schema — Orders, Product, Customer, Region, Date)
 - **Topics:** Revenue & profit analysis, order status breakdown, product category performance, customer insights, drillthrough product detail
@@ -145,7 +125,7 @@ Dynamic Titles
 
 - **[View Dashboard](https://app.powerbi.com/groups/me/reports/af7739e3-a31e-4bf0-acc5-79ce20709b51/9632bf8202c6ed09dd85?experience=power-bi)**
 
-### 10. Supply Chain & Logistics Dashboard
+### 6. Supply Chain & Logistics Dashboard
 
 - **Dataset:** Custom dataset (120 shipments, 2023–2024, star schema — Shipments, Supplier, Warehouse, Date)
 - **Topics:** Shipment volume by supplier & warehouse, on-time rate analysis, avg delivery days, delay tracking, supplier ranking
@@ -169,7 +149,7 @@ Dynamic Titles
 
 - **[View Dashboard](https://app.powerbi.com/groups/me/reports/9bc202a6-8f4c-4a59-9081-3addaf626028/84475c2fdd19f7031946?experience=power-bi)**
 
-### 11. Sales Command Center Dashboard
+### 7. Sales Command Center Dashboard
 - **Dataset:** Custom sales dataset — 24 months (2023-2024), 12 products (5 categories), 5 regions, 20 customers (Enterprise/SMB/Individual segments), 203 sales records, plus a monthly target table
   
 - **Topics:** Sales performance vs. target, seasonality analysis (Q4 spike), customer segmentation, regional & product performance
@@ -194,7 +174,7 @@ Dynamic Titles
 
 - **[View Dashboard](https://app.powerbi.com/groups/me/reports/950abc96-2d35-4537-aa27-086e47b9fba8/26da25ced66e1e1958fa?experience=power-bi)**
 
-###   12. Digital Marketing Analytics
+###   8. Digital Marketing Analytics
 - **Dataset:** Custom digital marketing dataset — date, channel, and campaign dimensions with campaign performance and conversion fact tables
 - **Topics:** Campaign performance tracking, channel effectiveness, conversion analysis
 - **Tools:** Power BI, DAX, Custom JSON Theme, data modeling (star schema with 5 tables)
@@ -214,7 +194,7 @@ Dynamic Titles
 - **[View Dashboard](https://app.powerbi.com/groups/me/reports/78ef4a48-04a7-4ed4-b415-ee5a57512788/d262459cfaa8e866eff2?experience=power-bi)**
 
 
-###    13. Banking & Loan Analytics Dashboard
+###    9. Banking & Loan Analytics Dashboard
 - Dataset: Custom banking dataset — 24 months, 6 branches (with lat/long for map visuals), 8 products (credit, deposit, card), 30 customers (with credit score & segment), 140 transactions, 50 loan records
 - Topics: Loan repayment & late payment tracking, transaction analysis, branch performance, customer credit risk segmentation
 - Tools: Power BI, DAX, Custom JSON Theme (white + purple/violet), Map visual (branch geolocation), data modeling (star schema)
@@ -234,7 +214,7 @@ Dynamic Titles
 
 - **[View Dashboard](https://app.powerbi.com/groups/me/reports/a6cde35d-b893-4dab-a3bf-d004e22754e7/521bda571b7c73b948f9?experience=power-bi)**
 
-###   14. E-Commerce Orders & Payments Dashboard
+###   10. E-Commerce Orders & Payments Dashboard
 
 - Dataset: Custom e-commerce dataset — date, product, customer, and payment method dimensions with an order fact table
 - Topics: Order analysis, payment method breakdown, customer & product performance
@@ -257,7 +237,7 @@ Dynamic Titles
 
 
 
-###   15.  HR Performance Analytics Dashboard
+###   11.  HR Performance Analytics Dashboard
 
 - Dataset: Custom HR dataset — date, department, and employee dimensions with performance and salary fact tables
 - Topics: Employee performance tracking, salary analysis, department comparisons
@@ -279,7 +259,7 @@ Dynamic Titles
 - **[View Dashboard](https://app.powerbi.com/groups/me/reports/72c6ff86-aca3-43cd-991e-312b08559685/9149e88d5c318aa39248?experience=power-bi)**
 
 
-###   16. Logistics Performance Dashboard
+###   12. Logistics Performance Dashboard
 
 - Dataset: Custom logistics dataset — carrier, route, category, and date dimensions with a shipment fact table (190 records, Jan 2023 – Dec 2024)
 - Topics: Shipment volume analysis, carrier performance, route revenue breakdown, on-time delivery tracking, delayed shipments trend
@@ -301,8 +281,7 @@ Dynamic Titles
 
 
 
-
-###     17. Coffee Shop Sales Dashboard
+###     13. Coffee Shop Sales Dashboard
 
 - Dataset: Custom coffee shop dataset — store, product, and date dimensions with a sales fact table (396 records, Jan–Jun 2023)
 - Topics: Sales by store analysis, product category performance, monthly sales trends, shopper behavior breakdown
