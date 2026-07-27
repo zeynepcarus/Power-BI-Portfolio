@@ -39,15 +39,17 @@ Dynamic Titles
 
 **Overview:**
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/5bf50b90-d4d8-4617-94a2-6e0a3aa02429" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/ba8f815e-d4bd-4b8a-8bb7-fc2e4a7532e2" />
+
 
 **Product & Category:**
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/a9e0f1b1-331e-42b9-a283-e28083e256e1" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/696d35e0-b61f-4fa2-bfb0-c2d63e73a2cf" />
+
 
 **Region Performance:**
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/cec74957-86c8-4288-b928-7f5c37e1acf8" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/f40324fb-e3e2-469b-9521-818f6c31ed3e" />
 
 
 
