@@ -12,19 +12,20 @@ Hi! I'm Zeynep, a recent Industrial Engineering graduate with a strong interest 
 **HR Overview:**
 
   
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/7814d3ab-e8e3-463e-85ec-80df4953cac8" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/6eb47016-f915-4867-af55-8bd9acae0bd1" />
+
 
 **Department Details:**
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/674a1b51-61dc-4b56-9860-bf1685c0dda9" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/cdd1b02b-80fa-4001-a6a4-b2dc7d022110" />
+
 
 **Attrition Analysis:**
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/affac50b-0de4-4e82-a847-34ef53376de2" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/35020ff7-8983-4efa-9518-a39d904d9e26" />
 
 
-
-- **[View Dashboard](https://app.powerbi.com/groups/me/reports/fb15bf79-664c-4db7-9a4a-fd9347f563d6/394d2854c4c857270002?experience=power-bi&bookmarkGuid=08d2d3d80b570e1b5284)**
+- **[View Dashboard](https://app.powerbi.com/groups/me/reports/fb15bf79-664c-4db7-9a4a-fd9347f563d6/54dceb96bb608653d7bd?experience=power-bi)**
 
 ### 2. Retail Sales Performance Dashboard
 
