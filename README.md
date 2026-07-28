@@ -294,9 +294,11 @@ Dynamic Titles
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/229fd8aa-6c45-4e9c-98c5-6371da849064" />
 
+
 **Monthly Sales**
 
-<img width="600"  alt="image" src="https://github.com/user-attachments/assets/26a5e671-ba16-44d2-a30b-069739213be5" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/a4b79a4e-89e0-4a69-8221-9c0ee8262ea1" />
+
 
 **Shopper Behaviors**
 
