@@ -308,6 +308,31 @@ Dynamic Titles
 
 
 
+### 14. Training & Development Dashboard
+
+- Dataset: Custom training dataset – trainer, program, and date dimensions with a training fact table (180 records, Jan–Dec 2024)
+- Topics: Training cost analysis by department, completion status tracking, performance growth measurement, trainer effectiveness, training locations map
+- Tools: Power BI, DAX, Custom JSON Theme, data modeling (star schema with 4 tables), Page Navigator, Map Visual
+
+**Overview**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/15e63bdf-ccbb-4374-a239-11ceae4b3c23" />
+
+**Program & Trainer Analysis**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/1788c03b-5213-4733-89e5-2e4c527c693a" />
+
+**Cost Analysis**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/212fc8db-fc2e-4b13-aabf-9134d340be02" />
+
+
+- **[View Dashboard](https://app.powerbi.com/groups/me/reports/3ed49650-1414-4b60-95fb-ce9a97225648/aa4739fed6e19e4a03e8?experience=power-bi)**
+
+
+
+
+
 
 
 
