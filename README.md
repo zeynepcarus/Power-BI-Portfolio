@@ -252,7 +252,8 @@ Dynamic Titles
 
 **Performance Analysis**
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/1504ea15-e6e4-408f-8459-5b374f560e2c" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/67a1070e-9a9f-49e5-9392-4a8e05920dae" />
+
 
 **Salary & Overtime**
 
@@ -328,6 +329,25 @@ Dynamic Titles
 
 
 - **[View Dashboard](https://app.powerbi.com/groups/me/reports/3ed49650-1414-4b60-95fb-ce9a97225648/aa4739fed6e19e4a03e8?experience=power-bi)**
+
+
+### 15. Hotel & Hospitality Analytics
+
+- Dataset: Custom hotel dataset – hotel, room type, and date dimensions with a bookings fact table (180 records, Jan–Dec 2024)
+- Topics: Revenue by hotel and city, occupancy rate trends, guest segment analysis, booking channel distribution, room type performance, guest satisfaction scores
+- Tools: Power BI, DAX, Custom JSON Theme, data modeling (star schema with 4 tables), Page Navigator, Sync Slicers, Map Visual
+
+**Overview**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/50a7c766-b1c3-443a-a926-4644b6b25f9a" />
+
+**Booking Analysis**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/e89ccc04-3b97-4c1f-a2b6-0ee4ff7d76a8" />
+
+
+- **[View Dashboard](https://app.powerbi.com/groups/me/reports/7eaf8f93-fa4e-44d9-b35e-6d84d99584c2/e7f359df03b5930eb975?experience=power-bi)**
+
 
 
 
