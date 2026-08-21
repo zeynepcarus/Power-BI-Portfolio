@@ -349,6 +349,29 @@ Dynamic Titles
 - **[View Dashboard](https://app.powerbi.com/groups/me/reports/7eaf8f93-fa4e-44d9-b35e-6d84d99584c2/e7f359df03b5930eb975?experience=power-bi)**
 
 
+### 16. Manufacturing Analytics
+
+- Dataset: Custom manufacturing dataset – machine, product, shift, and date dimensions with a production fact table (180 records, Jan–Dec 2024)
+- Topics: Production output by machine and line, monthly production trends, quality & defect rate analysis, OEE performance, downtime tracking, production cost breakdown by product and category
+- Tools: Power BI, DAX, Custom JSON Theme, data modeling (star schema with 5 tables), Page Navigator, Sync Slicers, Combo Chart, Waterfall Chart
+
+**Production Overview**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/a003f966-d177-48ce-a037-7a09e40884e5" />
+
+
+**Quality & Efficiency**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/94ee71a4-0466-497f-a6cb-adde6f1585e9" />
+
+**Cost Analysis**
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/02ea77d3-942a-4963-a16e-28f754fe84ba" />
+
+- **[View Dashboard](https://app.powerbi.com/groups/me/reports/e34b8e62-4174-4230-a473-e9aafe17428c/e052cab9a8eccbdf5cf7?experience=power-bi)**
+
+
+
 
 
 
