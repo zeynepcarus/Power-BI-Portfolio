@@ -372,6 +372,32 @@ Dynamic Titles
 
 
 
+### 17. Maintenance & Reliability Analytics
+
+- Dataset: Custom maintenance dataset – equipment, failure type, maintenance type, and date dimensions with a maintenance fact table (180 records, Jan–Dec 2024)
+- Topics: Equipment availability tracking, MTBF & MTTR analysis, failure distribution by type and severity, maintenance cost vs downtime cost, maintenance strategy evolution (corrective → predictive)
+- Tools: Power BI, DAX, Custom JSON Theme, data modeling (star schema with 5 tables), Drill-through Page, Matrix Heatmap with Conditional Formatting, Scatter Chart, Gauge Visual, 100% Stacked Bar Chart
+
+
+**Reliability Overview**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/18385095-7b74-40cc-971a-562bd3ba5dbc" />
+
+**Failure Analysis**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/cf2a57cf-26db-4f1b-8e01-6db2640040f8" />
+
+**Equipment Detail**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/0c7603db-4a98-401d-af49-b58474a0371b" />
+
+
+- **[View Dashboard](https://app.powerbi.com/groups/me/reports/6875125b-315e-404f-94cc-aa834715e5a2/4a7efc910cc353796b65?experience=power-bi)**
+
+
+
+
+
 
 
 
