@@ -396,6 +396,30 @@ Dynamic Titles
 
 
 
+### 18. E-Commerce Logistics & Delivery Analytics
+
+- Dataset: Custom logistics dataset – city, carrier, category, and date dimensions with a shipments fact table (200 records, Jan–Dec 2024)
+- Topics: Shipment volume by city and region, carrier performance comparison, on-time delivery analysis, return rate tracking, monthly shipment trends, cost breakdown by city and category
+- Tools: Power BI, DAX, Custom JSON Theme, data modeling (star schema with 5 tables), Page Navigator, Sync Slicers, Ribbon Chart, Treemap, Bubble Map
+
+
+**Shipment Overview**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/3dbec6da-a827-4c1a-9cc7-58f8ac817978" />
+
+**Carrier Performance**
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/2149675f-71be-4e1b-a182-642d6794e2d7" />
+
+**Regional Analysis**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/90d059b4-b6b4-4e8e-8333-72200b3e4a20" />
+
+
+- **[View Dashboard](https://app.powerbi.com/groups/me/reports/7d22f38c-af00-42af-b8e2-472535c321cd/1f439b650ce97faec69b?experience=power-bi
+)**
+
+
 
 
 
