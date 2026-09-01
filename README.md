@@ -428,14 +428,18 @@ Dynamic Titles
 
 
 **OEE Overview**
+
 <img width="600"  alt="image" src="https://github.com/user-attachments/assets/cea7ff61-218f-4db4-8d00-d7f7bdb71031" />
 
 
 **Production Performance**
+
 <img width="600"  alt="image" src="https://github.com/user-attachments/assets/9c218be8-95e7-4b5d-b507-491d6a953a0d" />
 
 
 **Shift & Quality Analysis**
+
+
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/cfee997d-c7f1-4b83-a91a-189f78c5d5e2" />
 
 
