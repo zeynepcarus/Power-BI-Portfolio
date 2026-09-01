@@ -420,6 +420,28 @@ Dynamic Titles
 )**
 
 
+### 19. OEE Production Analytics
+
+- Dataset: Simulated production data — 5 machines, 3 shifts, 5 product types, 200 shift-level records (2024) with pre-calculated Availability, Performance, Quality and OEE scores
+- Topics: OEE (Overall Equipment Effectiveness = Availability × Performance × Quality), Machine Efficiency, Shift Performance Comparison, Downtime -Analysis, Defect Rate, Production Output vs Theoretical Capacity
+- Tools: Power BI, DAX, Star Schema Modeling, Small Multiples (Line Chart), Field Parameters (dynamic metric switching), What-if Parameter (OEE Target), Matrix Heatmap, Waterfall Chart, Combo Chart, Bubble Map
+
+
+**OEE Overview**
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/cea7ff61-218f-4db4-8d00-d7f7bdb71031" />
+
+
+**Production Performance**
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/9c218be8-95e7-4b5d-b507-491d6a953a0d" />
+
+
+**Shift & Quality Analysis**
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/cfee997d-c7f1-4b83-a91a-189f78c5d5e2" />
+
+
+- **[View Dashboard](https://app.powerbi.com/groups/me/reports/a452633c-7898-4942-bbe7-9f85cd178832/82f87976b5d1d99a97bc?experience=power-bi
+)**
+
 
 
 
