@@ -447,8 +447,32 @@ Dynamic Titles
 )**
 
 
+### 20.  Inventory Management & ABC Analysis
+
+- Dataset: Simulated manufacturing inventory data — 12 products (ABC classified), 5 warehouses, 6 suppliers, 200 monthly records (2024)
+- Topics: ABC Classification (Pareto), EOQ (Economic Order Quantity), Reorder Point, Stockout Analysis, Holding Cost vs Order Cost, Supplier Lead Time Impact
+- Tools: Power BI, DAX (DIVIDE, SUM, AVERAGE), Star Schema Modeling, Matrix Heatmap, Bubble Map, Clustered Bar/Column Charts, Gauge Visual
+
+**ABC Analysis Overview**
 
 
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/7bba6785-e856-45a3-b99b-fe8069d0caae" />
+
+
+**Inventory Performance**
+
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/13b11300-8ea7-46ab-8c22-e9dd6bcd13ba" />
+
+
+
+**Supplier & Warehouse Analysis**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/5c1ce43c-e57b-410a-a7c4-045d00634b36" />
+
+
+- **[View Dashboard](https://app.powerbi.com/groups/me/reports/61b36aff-7d98-486b-a4e6-40f01e757df9/f06f91b53cbe5d205c03?experience=power-bi
+)**
 
 
 
