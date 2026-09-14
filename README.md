@@ -476,6 +476,62 @@ Dynamic Titles
 
 
 
+  ### 21. Facility & Capacity Planning Analytics
+
+- Dataset: Simulated facility capacity data — 8 workstations, 6 products, 3 shifts, 200 monthly records (2024)
+- Topics: Workstation Utilization, Throughput Analysis, Bottleneck Scoring, Idle Time Tracking, Setup Time, Space Utilization, Capacity vs Demand
+- Tools: Power BI, DAX (DIVIDE, AVERAGEX, RELATED, SUM), Star Schema Modeling, Clustered Bar Chart, Stacked Bar Chart, Line Chart, Scatter Chart, 
+Waterfall Chart, Treemap, Map Visual
+
+**Capacity Overview**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/bd67904c-0980-42fd-a892-dbb9d95ec04b" />
+
+
+**Bottleneck & Throughput Analysis**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/2aeb20d6-f40d-4c6b-b922-ff7a50756f84" />
+
+
+**Space & Resource Planning**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/34154360-d801-4032-9278-adf344d5b4e2" />
+
+
+- **[View Dashboard](https://app.powerbi.com/groups/me/reports/60c02373-b472-40fb-970b-4d6091cb241c/a40e7dea37b4682b800e?experience=power-bi)**
+
+
+
+### 22. Quality Control & Six Sigma Analytics
+
+- Dataset: Simulated manufacturing quality data — 6 machines, 8 defect types, 3 shifts, 200 monthly records (2024)
+- Topics: OEE, Defect Rate Analysis, DPMO, Process Capability Index (Cpk), Sigma Level, UCL/LCL Control Limits, Root Cause Analysis
+- Tools: Power BI, DAX (SUMX, RELATED, DIVIDE, AVERAGE), Star Schema Modeling, Clustered Bar Chart, Line Chart, Scatter Chart, Matrix Heatmap, 
+Control Chart, Decomposition Tree, Funnel Chart, Map Visual
+
+**Quality Overview**
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/fa21a638-f9b7-4836-a022-87c6083d5b42" />
+
+
+
+**Process Capability & Control**
+
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/5ad4aefa-8f10-4da1-b35c-5badf4f6ad47" />
+
+
+**Root Cause Analysis**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/0f95b2d3-6087-4e54-a812-4b4dfcabd90f" />
+
+
+
+- ***[View Dashboard](https://app.powerbi.com/groups/me/reports/a91f92f9-9d8b-4b03-a372-3406dc80d56a/a8a584620e4cb310d4c0?experience=power-bi)**
+
+
+
+
 
 
 
