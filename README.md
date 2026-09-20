@@ -531,6 +531,84 @@ Control Chart, Decomposition Tree, Funnel Chart, Map Visual
 
 
 
+### 23. Customer Churn & Retention Analytics
+
+- Dataset: Simulated customer transaction & churn dataset — 36K customers, 1 fact table (`fact_customers`) and 3 dimension tables (`dim_channel`, `dim_date`, `dim_segment`), 2023.
+- Topics: Customer Churn Rate, Customer Lifetime Value (LTV), Retention Rate Analysis, RFM / Customer Segmentation (Champion, Loyal, At Risk, Hibernating, Potential Loyalist, New Customer), Channel Acquisition Performance, NPS Tracking, Average Tenure & Order Value Analysis.
+- Tools: Power BI, DAX (CALCULATE, DIVIDE, SUM, AVERAGE, COUNTROWS, USERELATIONSHIP, DATEDIFF), Star Schema Modeling, Card Visuals, Donut Chart, Stacked Bar Chart, Clustered Bar Chart, Line Chart, Treemap, Scatter Plot, Custom Dark Theme UI.
+
+
+**Customer Overview**
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/8986ab5e-d94d-40ae-98ca-f5c1216bb7c9" />
+
+
+**Churn Analysis**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/6b8abf58-964c-4ad9-a0f1-0f8add3cc987" />
+
+
+**Segment Deep Dive**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/fc9006cc-75ce-4155-8fe1-3756c83a499d" />
+
+
+
+
+
+### 24. AI Demand Forecasting Analytics
+
+- Dataset: Multi-model demand forecasting dataset — 123K actual demand volume, 1 fact table (`d32_fact_forecast`) and 3 dimension tables (`d32_dim_date`, `d32_dim_model`, `d32_dim_product`), 2024.
+- Topics: Actual vs. Forecasted Demand, Forecasting Error & Accuracy Metrics (MAPE, MAE, Forecast Accuracy %, Forecast Bias), Model Benchmarking (ARIMA, Prophet, XGBoost, LSTM, Ensemble), Over vs. Under Forecast Analysis, Product & Category Error Breakdown, Target Deviation Tracking.
+- Tools: Power BI, DAX (DIVIDE, SUM, AVERAGE, ABS, CALCULATE, MIN, MAX), Star Schema Modeling, Gauge Visual, Card Visuals, Line Chart, Clustered Bar Chart, Matrix Heatmap, Decomposition Tree, Scatter Plot, Custom Matcha/Sage UI Theme.
+
+
+**Forecast Overview**
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/2e19c3e1-d0d5-4d6b-b1c7-ca25a57dc821" />
+
+**Model Performance**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/c0abfcb3-563d-4c57-8a2d-17fc01452383" />
+
+
+**Product & Category Deep Dive**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/1f218ce5-9a99-4479-9d06-ad2b2ce23ac4" />
+
+
+### 25. Ergonomics & Workplace Safety Analytics
+
+- Dataset: Industrial ergonomics & occupational health and safety (OHS/EHS) dataset — 105 total incidents, 1 fact table (`d31_fact_safety`) and 4 dimension tables (`d31_dim_date`, `d31_dim_department`, `d31_dim_employee_gr...`, `d31_dim_incident_type`), 2024.
+- Topics: Occupational Health & Safety (EHS/OHS), Incident & Near Miss Trend Analysis, Total Recordable Incident Rate (TRIR / TEIR), Lost Time Injury / Lost Days Tracking, PPE Compliance Rate, Ergonomic Risk Scoring by Department & Employee Group, Safety Index, Incident Root Cause Breakdown.
+- Tools: Power BI, DAX (COUNTROWS, SUM, DIVIDE, AVERAGE, CALCULATE), Star Schema Modeling, Donut Chart, Gauge Visual, Clustered Bar Chart, Line Chart, Scatter Plot (with Play Axis / Timeline), Matrix Heatmap, Treemap, Ribbon Chart, Decomposition Tree, Small Multiples, Custom Neon Dark UI Theme.
+
+
+**Safety Overview**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/336667a3-4c6e-4ee8-870d-f93eab83bf96" />
+
+
+**Risk & Ergonomic Analysis**
+
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/ee38d6dd-1032-4b10-877a-b5e8d8d9ab26" />
+
+
+**Incident Deep Dive**
+
+
+**<img width="600"  alt="image" src="https://github.com/user-attachments/assets/36971dac-ba97-46ec-8eaa-43a6537c16df" />
+
+
+
+
+
+
+
+
+
+
 
 
 
