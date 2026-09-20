@@ -602,6 +602,32 @@ Control Chart, Decomposition Tree, Funnel Chart, Map Visual
 
 
 
+### 30. Cost Engineering & Make vs. Buy Analysis
+
+- Dataset: Manufacturing cost engineering & procurement dataset — 1 fact table (`d30_fact_cost`), 4 dimension tables (`d30_dim_component`, `d30_dim_date`, `d30_dim_department`, `d30_dim_supplier`), and 1 What-If parameter table (`Volume Scenario`), 2024.
+- Topics: Make vs. Buy Decision Modeling, Total Cost of Ownership (TCO), Cost Variance Analysis, Breakeven Volume Sensitivity & Scenario Modeling, Cost Savings Tracking, Component-Level Cost Breakdown, Supplier Quality vs. Lead Time Performance, Key Drivers of Cost Optimization.
+- Tools: Power BI, DAX (SUM, DIVIDE, CALCULATE, AVERAGE, SELECTEDVALUE, SWITCH/IF for Decision Rules), What-If Parameter Modeling, Star Schema, Waterfall Chart, Gauge Visual, Clustered Bar/Column Chart, Line Chart, Ribbon Chart, Scatter Plot, Matrix, Key Influencers Visual, Smart Narrative, Custom Muted Slate/Steel UI Theme.
+
+
+**Cost Overview**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/81e89ee5-0439-4a7b-9f19-b2970a86f61d" />
+
+
+**Make vs Buy Analysis**
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/624b1c71-68f8-49d9-b79a-75afd9d82c95" />
+
+
+
+**Supplier & Value Analysis**
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/9341eefe-a58d-4f45-835c-98ab9becc0fb" />
+
+
+
+
+
 
 
 
